@@ -7,6 +7,8 @@ For users in China, scan the following QR code:
 
 <img src="alipay.jpg" width="300">
 
+Use this link if you are on mobile: https://qr.alipay.com/fkx12696sydkhb371epzx52
+
 </details>
 
 <!--
