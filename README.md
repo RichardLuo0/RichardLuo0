@@ -1,8 +1,15 @@
 ## Hi there 👋
 
-<!--
-**RichardLuo0/RichardLuo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you find my work interesting, support me at https://ko-fi.com/richardluo \
+For users in China, scan the following QR code:
+<details>
+<summary>alipay QR code</summary>
 
+<img src="alipay.jpg" width="300">
+
+</details>
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
