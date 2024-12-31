@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-If you find my work interesting, support me at https://ko-fi.com/richardluo \
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H717XQCR)
+
+If you find my work interesting, support me at https://ko-fi.com/richardluo . \
 For users in China, scan the following QR code:
 <details>
 <summary>alipay QR code</summary>
