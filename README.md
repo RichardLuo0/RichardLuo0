@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H717XQCR)
+<a href="https://ko-fi.com/richardluo">
+  <img src="ko-fi.jpg" width="400" />
+</a>
 
-If you find my work interesting, support me at https://ko-fi.com/richardluo . \
+If you find my work interesting, support me at https://ko-fi.com/richardluo. \
 For users in China, scan the following QR code:
 <details>
 <summary>alipay QR code</summary>
